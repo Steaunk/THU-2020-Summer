@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/Import.png</file>
+        <file>image/play-circle.png</file>
+        <file>image/poweroff.png</file>
+        <file>image/reload.png</file>
+        <file>image/save.png</file>
+        <file>image/time out.png</file>
+        <file>image/snake.ico</file>
+    </qresource>
+</RCC>
